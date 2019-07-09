@@ -1,0 +1,4 @@
+creating a text for numbers
+This is 1 = one
+This is 2 = two
+this is 3 =threee
